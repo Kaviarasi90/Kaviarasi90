@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on Automation projects
-- 📫 How to reach me ...
+- 📫 How to reach me kavijk90@gmail.com
 
 <!---
 Kaviarasi90/Kaviarasi90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
