@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaviarasi90
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently working in Cucumber and TestNG framework
 - 💞️ I’m looking to collaborate on Automation projects
 - 📫 How to reach me kavijk90@gmail.com
 
